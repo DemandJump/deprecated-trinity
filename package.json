@@ -1,6 +1,6 @@
 {
   "name": "@demandjump/trinity",
-  "version": "1.1.18",
+  "version": "1.1.19",
   "description": "Public Demandjump React Components and UIKit",
   "repository": {
     "type": "git",
@@ -66,8 +66,8 @@
     "postcss-modules": "^4.3.1",
     "prettier": "^2.6.2",
     "prop-types": "^15.8.1",
-    "react": "^latest",
-    "react-dom": "latest",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
     "react-router-dom": "^6.3.0",
     "react-select": "^5.4.0",
     "yup": "^0.32.11"

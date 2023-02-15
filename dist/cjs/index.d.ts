@@ -35,6 +35,7 @@ export { default as ActionSortList } from "./components/Icons/ActionSortList";
 export { default as ActionTrash } from "./components/Icons/ActionTrash";
 export { default as ActionUpload } from "./components/Icons/ActionUpload";
 export { default as DjLogoStandardSize } from "./components/Icons/DjLogoStandardSize";
+export { default as IconDJLogoD } from "./components/Icons/DjLogoD";
 export { default as IconAdmin } from "./components/Icons/IconAdmin";
 export { default as IconAnalytics } from "./components/Icons/IconAnalytics";
 export { default as IconAttribution } from "./components/Icons/IconAttribution";
