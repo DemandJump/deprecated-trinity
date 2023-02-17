@@ -24,6 +24,7 @@ export { default as ActionTrash } from "./ActionTrash";
 export { default as ActionUpload } from "./ActionUpload";
 export { default as DjLogoD } from "./DjLogoD";
 export { default as DjLogoStandardSize } from "./DjLogoStandardSize";
+export { default as IconAddUser } from "./IconAddUser";
 export { default as IconAdmin } from "./IconAdmin";
 export { default as IconAnalytics } from "./IconAnalytics";
 export { default as IconAttribution } from "./IconAttribution";
