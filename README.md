@@ -2,6 +2,9 @@
 
 ![Trinity](https://c.tenor.com/QPQLFeLVSnYAAAAC/trinity-neotrin.gif)
 
+
+# THIS PROJECT WAS DEPRECATED IN FAVOR OF MOVING UI COMPONENTS INTO OUR MORPEUS APP'S /SRC/COMPONENTS/SHARED FOLDER
+
 Public Demandjump React Component Library and UIKit based on Material Design with MaterialUI.
 
 ## Installation Instructions
